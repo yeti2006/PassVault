@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Toggle_Burguer_Menu_Python_PySide2/
